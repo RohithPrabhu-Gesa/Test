@@ -1,0 +1,18 @@
+You can access DMI service on this URL web address [ https://secureftp.dmiconnect.com ].
+
+ 
+Below is the password to install the  DMI Secure Transport Certificate on your computer/workstation. 
+M7tWXj8v
+
+
+Below is the SSH Key password. 
+MLkwss7%HD
+
+
+Below is the  password you will be using to login to the Dovenmuehle Secure Transport site.
+xXPi6vB6
+
+
+
+Below is the account you will be using to login to the Dovenmuehle Secure Transport site.
+gesas2s
